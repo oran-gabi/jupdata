@@ -1,0 +1,21 @@
+age,gender,meal
+18,1,Breakfast-Oatmeal
+20,1,Lunch-Salad
+23,1,Dinner-Steak
+25,1,Breakfast-Pancakes
+28,1,Lunch-Burger
+30,1,Dinner-Pasta
+33,1,Breakfast-Avocado Toast
+35,1,Lunch-Sushi
+37,1,Dinner-Chicken Alfredo
+19,0,Breakfast-Smoothie Bowl
+21,0,Lunch-Sandwich
+24,0,Dinner-Tacos
+26,0,Breakfast-Yogurt Parfait
+28,0,Lunch-Salad
+30,0,Dinner-Grilled Salmon
+32,0,Breakfast-Fruit Salad
+34,0,Lunch-Burrito
+36,0,Dinner-Roast Chicken
+22,1,Breakfast-Fruit Salad
+38,1,Lunch-Burger
